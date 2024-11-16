@@ -1,7 +1,7 @@
 {{ define "main" }}
-{{ $product := site.GetPage "product" }}
-{{ $userTrust := site.GetPage "user-trust" }}
-{{ $howToPage := site.GetPage "how-to" }}
+{{ $product := .Site.GetPage "product" }}
+{{ $userTrust := .Site.GetPage "user-trust" }}
+{{ $howToPage := .Site.GetPage "how-to" }}
 
 <main class="main-wrapper">
     <header class="position-relative">
