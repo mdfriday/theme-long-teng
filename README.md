@@ -2,7 +2,7 @@
 
 [![Hugo](https://img.shields.io/badge/hugo-0.134-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Build with Hugo](https://github.com/mdfriday/theme-long-teng/actions/workflows/main.yml/badge.svg)](https://github.com/mdfriday/theme-long-teng/actions/workflows/main.yml)
+[![Build with Hugo](https://github.com/mdfriday/theme-long-teng/actions/workflows/hugo.yml/badge.svg)](https://github.com/mdfriday/theme-long-teng/actions/workflows/hugo.yml)
 
 <h3><a href="https://mdfriday.com" rel="nofollow">MD Friday</a> product launch Hugo theme</h3>
 
