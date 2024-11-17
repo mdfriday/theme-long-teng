@@ -1,4 +1,4 @@
-<h1 align=center>Hugo Long Teng Theme | <a href="https://laoyuan.app.mdfriday.com" rel="nofollow">Demo</a></h1>
+<h1 align=center>Hugo Long Teng Theme | <a href="https://mdfriday.com" rel="nofollow">Demo</a></h1>
 
 [![Hugo](https://img.shields.io/badge/hugo-0.134-blue.svg)](https://gohugo.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
