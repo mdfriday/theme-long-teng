@@ -21,4 +21,4 @@ jobs:
                   gh release create "$tag" \
                     --title="$tag" \
                     --draft \
-                    $(find . -type f ! -path "./exampleSite/*" ! -path "./.*" ! -path "./images/*" ! -name "command.sh")
+                    --notes="Release $tag"
