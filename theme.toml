@@ -6,7 +6,7 @@ description = "Long Teng is a vibrant product landing page theme inspired by Chi
 homepage = "https://github.com/mdfriday/theme-long-teng"
 demosite = "https://longteng.app.mdfriday.com"
 
-tags = ["product landing page", "hugo", "theme", "business", "marketing", "showcase", "mdfriday"]
+tags = ["company", "landing", "responsive", "light", "mdfriday"]
 features = ["responsive design", "customizable content", "Chinese color theme", "service showcase", "call-to-action buttons", "user trust section"]
 
 [author]
