@@ -20,5 +20,4 @@ jobs:
                   
                   gh release create "$tag" \
                     --title="$tag" \
-                    --draft \
                     --notes="Release $tag"
